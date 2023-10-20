@@ -18,5 +18,5 @@ A aplicação foi desenvolvida com o intuito de servir como base para trabalhos 
 * Next 13.5.4
 * React ^18
 * Typescript 5.2.2
-* Firebase: 8.8.0
-* TailwindCSS: 3.3.3
+* Firebase 8.8.0
+* TailwindCSS 3.3.3
